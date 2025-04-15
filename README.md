@@ -13,6 +13,6 @@ Year (integer)
 Number of Publications (integer)
 
 ## ⚙️ Run
-python contador_colaboracoes.py
+python TrendScape.py
 
 
